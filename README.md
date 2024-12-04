@@ -1,1 +1,1 @@
-# Stock Market Prediction
+# Applied Data Science
