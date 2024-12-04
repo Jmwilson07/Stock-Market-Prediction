@@ -1,1 +1,1 @@
-# Applieddatascience_phase1
+# Stock Market Prediction
